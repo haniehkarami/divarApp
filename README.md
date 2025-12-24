@@ -1,8 +1,24 @@
-# React + Vite
+# Divar Clone 🏠
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+این پروژه یک نسخه تمرینی از اپلیکیشن **دیوار** است که با هدف یادگیری و تمرین مفاهیم فرانت‌اند مدرن توسعه داده می‌شود.
 
-Currently, two official plugins are available:
+## 🎯 هدف پروژه
+- پیاده‌سازی احراز هویت با OTP
+- فرم‌ها، ولیدیشن و مدیریت وضعیت
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 تکنولوژی‌های استفاده‌شده
+- React / Next.js
+- React Hook Form
+- Axios
+
+## 📌 وضعیت فعلی پروژه (Phase 1)
+در این مرحله فقط بخش احراز هویت پیاده‌سازی شده است:
+- صفحه ورود با شماره موبایل
+- صفحه وارد کردن و بررسی کد OTP
+- مدیریت حالت‌های لودینگ و خطا
+
+## 🧩 مراحل بعدی
+- صفحه آگهی‌ها
+- دسته‌بندی‌ها
+- ثبت آگهی
+- پروفایل کاربر 
